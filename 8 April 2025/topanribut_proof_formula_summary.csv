@@ -1,0 +1,13 @@
+method,scale,num_components,count_diacritic,count_circular_blob,count_normal,stability_vs_1x
+usulan,0.7,26,0,13,13,1.0
+usulan,1.0,26,0,13,13,1.0
+usulan,1.4,26,0,13,13,1.0
+fixed_soft,0.7,26,0,18,8,0.8076923076923077
+fixed_soft,1.0,26,0,13,13,1.0
+fixed_soft,1.4,26,0,11,15,0.9230769230769231
+area_only,0.7,26,0,16,10,1.0
+area_only,1.0,26,0,16,10,1.0
+area_only,1.4,26,0,16,10,1.0
+hard_round,0.7,26,0,10,16,1.0
+hard_round,1.0,26,0,10,16,1.0
+hard_round,1.4,26,0,10,16,1.0
